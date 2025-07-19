@@ -1,0 +1,1 @@
+export default function RecipeApp() { return <div>Loading...</div> }
